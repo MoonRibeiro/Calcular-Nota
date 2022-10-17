@@ -13,7 +13,7 @@ function calcularmedia(){
     else if (media >= 7) { //aprovado
         img.src = 'usagihappy.jpg'
         document.body.style.background = '#1ba673'
-        result = ' Fi da peste! Você foi aprovado! :D'
+        result = 'Oba! Você foi aprovado! :D'
     }
     else { //final
         img.src = 'usagi - java.jpg'
